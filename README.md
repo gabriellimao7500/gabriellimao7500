@@ -1,4 +1,4 @@
 <div>
-  <img src="img/teste">
+  <img src="teste.jpg">
   
 </div>
