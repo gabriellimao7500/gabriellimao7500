@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?color=2b2bff&type=waving">
+  <img src="https://capsule-render.vercel.app/api?color=235aaa&type=waving">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com/?color=2b2bff&size=35&center=true&vCenter=true&width=1000&lines=<Hello+World!>;<Sou+Gabriel+Lima>;<Seja+Bem-Vindo(a)!+:%29>"
+  <img src="https://readme-typing-svg.herokuapp.com/?color=235aaa&size=35&center=true&vCenter=true&width=1000&lines=<Hello+World!>;<Sou+Gabriel+Lima>;<Seja+Bem-Vindo(a)!+:%29>"
 </div>
 
 ##
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellimao7500&show_icons=true&count_private=true&hide_border=true&title_color=2b2bff&icon_color=2b2bff&text_color=2b2bff&bg_color=0d1117)
-![Gabriel GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellimao7500&layout=compact&hide_border=true&title_color=2b2bff&text_color=2b2bff&bg_color=0d1117)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellimao7500&show_icons=true&count_private=true&hide_border=true&title_color=235aaa&icon_color=235aaa&text_color=235aaa&bg_color=0d1117)
+![Gabriel GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellimao7500&layout=compact&hide_border=true&title_color=235aaa&text_color=235aaa&bg_color=0d1117)
 
 ##
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=2b2bff&size=25&center=true&vCenter=true&width=1000&lines=<Tecnologias+que+eu+uso+no+meu+dia+a+dia>">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=235aaa&size=25&center=true&vCenter=true&width=1000&lines=<Tecnologias+que+eu+uso+no+meu+dia+a+dia>">
   <br><br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
