@@ -1,16 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?color=235aaa&type=waving">
+  <img src="https://capsule-render.vercel.app/api?color=70a5fd&type=waving">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com/?color=235aaa&size=35&center=true&vCenter=true&width=1000&lines=<Hello+World!>;<Sou+Gabriel+Lima>;<Seja+Bem-Vindo(a)!+:%29>"
+  <img src="https://readme-typing-svg.herokuapp.com/?color=70a5fd&size=35&center=true&vCenter=true&width=1000&lines=<Hello+World!>;<Sou+Gabriel+Lima>;<Seja+Bem-Vindo(a)!+:%29>"
 </div>
 
 ##
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellimao7500&show_icons=true&count_private=true&hide_border=true&title_color=235aaa&icon_color=235aaa&text_color=235aaa&bg_color=0d1117)
-![Gabriel GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellimao7500&layout=compact&hide_border=true&title_color=235aaa&text_color=235aaa&bg_color=0d1117)
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriellimao7500&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=70a5fd&text_color=70a5fd&bg_color=0d1117)
+![Gabriel GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriellimao7500&layout=compact&hide_border=true&title_color=70a5fd&text_color=70a5fd&bg_color=0d1117)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabriellimao7500&bg_color=0d1117&theme=tokyo-night&hide_border=true&)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=235aaa&size=25&center=true&vCenter=true&width=1000&lines=<Tecnologias+que+eu+uso+no+meu+dia+a+dia>">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=70a5fd&size=25&center=true&vCenter=true&width=1000&lines=<Tecnologias+que+eu+uso+no+meu+dia+a+dia>">
   <br><br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -41,7 +43,9 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/JosianeCMagalhaes/JosianeCMagalhaes/b95f9198838f12eba5d0127bcf55964a21fdcd6f/github-contribution-grid-snake.svg">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=120&section=footer"/>
 
+
+<img src="https://raw.githubusercontent.com/JosianeCMagalhaes/JosianeCMagalhaes/b95f9198838f12eba5d0127bcf55964a21fdcd6f/github-contribution-grid-snake.svg">
 
 
