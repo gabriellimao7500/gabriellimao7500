@@ -43,7 +43,6 @@
   </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=120&section=footer"/>
 
 
 <img src="https://raw.githubusercontent.com/JosianeCMagalhaes/JosianeCMagalhaes/b95f9198838f12eba5d0127bcf55964a21fdcd6f/github-contribution-grid-snake.svg">
